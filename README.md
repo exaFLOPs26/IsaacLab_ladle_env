@@ -4,6 +4,10 @@
 <img width="360" height="173" alt="Picture2" src="https://github.com/user-attachments/assets/6af6b300-bbe1-4c95-8ae7-5275549a5ce0" />
 
 
+
+https://github.com/user-attachments/assets/65310ac0-ab32-4a8a-b21f-605927b94cc8
+
+
 본 프로젝트는 마감벽돌 삽입 자동화를 위해 NVIDIA IsaacLab 기반 고정밀 시뮬레이션 환경을 구축하고, 이를 활용해 강화학습 기반 로봇 제어 정책을 개발하는 기술입니다. Omniverse·PhysX 물리 엔진을 활용해 실제 건설 현장의 다양한 조건을 정밀하게 재현하며, Domain Randomization을 적용해 Sim-to-Real 적응력을 강화했습니다. 이를 통해 현장에서 반복 실험이 어려운 건설 자동화 분야에서도 안정적이고 효율적인 로봇 제어 정책 학습이 가능합니다.
 
 🌟 기술의 우수성
